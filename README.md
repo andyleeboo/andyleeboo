@@ -6,7 +6,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/andyleeboo/andyleeboo/output/github-snake.svg" />
 </picture>
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andyleeboo&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=andyleeboo&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=andyleeboo&theme=radical)
 
